@@ -34,22 +34,7 @@ namespace proyecto1
         {
 
         }
-        public void moverArriba()
-        {
-
-        }
-        public void moverIzquierda()
-        {
-
-        }
-        public void moverAbajo()
-        {
-
-        }
-        public void moverDerecha()
-        {
-
-        }
+     
         public double calcularResistencia()
         {
 
